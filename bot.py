@@ -1,7 +1,7 @@
 from aiogram import Bot, Dispatcher, executor, types
 import requests
 
-API_TOKEN = "ISI_TOKEN_BOT_KAMU"
+API_TOKEN = "8510178079:AAFs7tCVWLONH-A29Y0KrPEW0zDaLT7VKo8"
 
 bot = Bot(token=API_TOKEN)
 dp = Dispatcher(bot)
